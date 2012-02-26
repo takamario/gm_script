@@ -1,5 +1,5 @@
 // ==UserScript==  
-// @name        simplenote.user.js
+// @name        simplenote_monospace.user.js
 // @namespace   https://github.com/takamario/gm_script
 // @description Change font to monospace at Simplenote
 // @include     https://simple-note.appspot.com/
