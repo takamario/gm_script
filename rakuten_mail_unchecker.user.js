@@ -6,6 +6,7 @@
 // @include        https://basket.step.rakuten.co.jp/rms/mall/bs/confirmorder/*
 // @include        https://basket.step.rakuten.co.jp/rms/mall/bs/confirmorderquicknormalize/*
 // @include        https://books.step.rakuten.co.jp/rms/mall/book/bs*
+// @exclude        https://books.step.rakuten.co.jp/rms/mall/book/bs/Cart*
 // ==/UserScript==
 
 (function() {
